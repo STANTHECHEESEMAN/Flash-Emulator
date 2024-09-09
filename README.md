@@ -1,3 +1,5 @@
+# I DID NOT MAKE THIS
+
 # ruffle-selfhosted
 
 ruffle-selfhosted is the intended way to get Ruffle onto your website.
